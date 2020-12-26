@@ -29,10 +29,9 @@ Country = "🇮🇳"
 - 📫 Find me on Telegram - [It's-leo-bitch](https://t.me/WONKRU_HERE).
 - ⚡ Fact: I am a Noobie.
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=its-leo-bitch&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
-## My GitHub Stats💛
+## My GitHub Stats📈
 
 <details>
 <summary>My GitHub Stats💛</summary>

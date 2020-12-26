@@ -71,3 +71,11 @@ Follow Me On:
 <br />
 <br />
 
+
+# Github Trophy🏆
+[![trophy](https://github-profile-trophy.vercel.app/?username=its-leo-bitch&theme=onedark)](https://github.com/its-leo-bitch)
+
+<p align="center">
+    <img src="https://img.shields.io/badge/VISIT%20ME-IN-TELEGRAM%20❤-red?style=for-the-badge&logo=github"/>
+</p>
+

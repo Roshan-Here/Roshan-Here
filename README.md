@@ -4,6 +4,9 @@
 [![telegram badge](https://img.shields.io/badge/WONKRU_HERE-30302f?style=for-the-badge&logo=telegram)](https://t.me/WONKRU_HERE)
 [![mailid badge](https://img.shields.io/badge/its_leo_bitch-30302f?style=for-the-badge&logo=gmail)](mailto:meth.lab.bot@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=its-leo-bitch&label=Profile%20Views&color=blue&style=flat-square" alt="its-leo-bitch" /> </p>
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/its-leo-bitch/)
+
 # About 👨‍💻
 ```python
 Name = "its-me-leo"
@@ -15,13 +18,7 @@ Age = "19"
 Country = "🇮🇳"
 ```
 
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Its-leo-bitch&label=Views&color=blue&style=plastic" alt="leo"/> </p>
-
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/xditya/)
-
+## Its-leo-bitch
 - 🔭 I’m currently studying.
 - 👬 I’m looking to collaborate on Project.
 - 👀 I’m looking for help with Open Source.

@@ -10,9 +10,6 @@
 # About 👨‍💻
 ```python
 Name = "its-me-leo"
-who_i_am ### About 👨‍💻
-```python
-Name = "its-me-leo"
 who_i_am == ['Coding = ❣️']
 Age = "19"
 Country = "🇮🇳"

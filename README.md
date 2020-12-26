@@ -3,7 +3,7 @@
 # What'sup Bitch <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 [![telegram badge](https://img.shields.io/badge/WONKRU_HERE-30302f?style=for-the-badge&logo=telegram)](https://t.me/WONKRU_HERE)
 [![mailid badge](https://img.shields.io/badge/its_leo_bitch-30302f?style=for-the-badge&logo=gmail)](mailto:meth.lab.bot@gmail.com)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=its-leo-bitch&label=Profile%20Views&color=blue&style=flat-square" alt="its-leo-bitch" /> </p>
 # About 👨‍💻
 ```python
 Name = "its-me-leo"

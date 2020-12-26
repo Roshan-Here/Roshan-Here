@@ -16,7 +16,7 @@ Country = "🇮🇳"
 ```
 
 ## Its About me Bitch🏅
-<img align="right" alt="cmulay | Read Book" src="https://github.com/its-leo-bitch/its-leo-bitch/blob/master/👨‍💻/multi.gif" width="300" height="300" />
+<img align="right" alt="cmulay | Read Book" src="https://github.com/its-leo-bitch/its-leo-bitch/blob/main/👨‍💻/multi.gif" width="300" height="300" />
 
 - 🔭 I’m currently studying.
 - 👬 I’m looking to collaborate on Project.

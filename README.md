@@ -10,7 +10,7 @@
 # About 👨‍💻
 ```python
 Name = "its-me-leo"
-who_i_am == ['Coding = ❣️']
+who_i_am == ['Developer','Coder','Btech-Student',Noobie']
 Age = "19"
 Country = "🇮🇳"
 ```

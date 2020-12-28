@@ -48,7 +48,7 @@ Country = "🇮🇳"
 Follow Me On:
 
 <p align="left">
-<a href="https://telegram.me/Xequist"><img src="https://img.shields.io/badge/Join%20Our%20Channel-Xequist-darkblue?style=for-the-badge&logo=telegram"></a>
+<a href="https://telegram.me/Xequist"><img src="https://img.shields.io/badge/It's%20About%20Me-Xequist-darkblue?style=for-the-badge&logo=telegram"></a>
 </p>
 <p align="left">
 <a href="https://github.com/its-leo-bitch"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?style=for-the-badge&logo=github"></a>

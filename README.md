@@ -26,7 +26,18 @@ Country = "🇮🇳"
 - ⚡ Fact: I am a Noobie.
 
 
+## My GitHub Stats📈
 
+<details>
+<summary>My GitHub Stats💛</summary>
+<br>
+    
+![Leo Git Stats](https://github-readme-stats.vercel.app/api?username=its-leo-bitch&include_all_commits=true&count_private=true&theme=highcontrast)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberBoyAyush&layout=compact&theme=radical)](https://github.com/CyberBoyAyush)
+
+
+</details>
 
     
 ## Follow Me🔥:

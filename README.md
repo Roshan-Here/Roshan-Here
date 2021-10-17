@@ -12,7 +12,7 @@
 Name = "its-me-leo"
 who_i_am == ['Developer','Coder','Btech-Student','Noobie']
 Age = "20"
-Country = "🇮🇳"
+Country = "🇮🇳 Ask"
 Free Repo = "(https://github.com/wonkru-bot)"
 ```
 
@@ -21,10 +21,9 @@ Free Repo = "(https://github.com/wonkru-bot)"
 
 - 🔭 I’m currently studying.
 - 👬 I’m looking to collaborate on Project.
-- 👀 I’m looking for help with Open Source.
 - 💬 Ask me about anything, always ready to help.
 - 📫 Find me on Telegram - [It's-leo-bitch](https://t.me/WONKRU_HERE).
-- ⚡ Fact: I am a Noobie.
+- ⚡ Fact: I am a Noobie, & Learning from Mistakes 😜
 
 
 ## My GitHub Stats📈
@@ -55,7 +54,7 @@ Follow Me On:
 <a href="https://github.com/its-leo-bitch"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="left">
-<a href="https://instagram.com/leo_parmigiana"><img src="https://img.shields.io/badge/Instagram-leo_parmigiana-magenta?style=for-the-badge&logo=instagram"></a>
+<a href="https://instagram.com/albert_3instein"><img src="https://img.shields.io/badge/Instagram-albert_3ienstein-magenta?style=for-the-badge&logo=instagram"></a>
 </p>
 
 </details>

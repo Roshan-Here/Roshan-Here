@@ -73,7 +73,7 @@ Follow Me On:
 
 
 # Github Trophy🏆
-[![trophy](https://github-profile-trophy.vercel.app/?username=its-leo-bitch&theme=onedark)](https://github.com/Roshan-Here)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Roshan-Here&theme=onedark)](https://github.com/Roshan-Here)
 
 <p align="center">
     <img src="https://img.shields.io/badge/THANKS%20YOU-BRUH%20❤-red?style=for-the-badge&logo=github"/>

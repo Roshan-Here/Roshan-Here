@@ -1,6 +1,6 @@
 
 
-# What'sup Nigga <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+# Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> i'm Muhammed Roshan
 [![telegram badge](https://img.shields.io/badge/WONKRU_HERE-30302f?style=for-the-badge&logo=telegram)](https://t.me/WONKRU_HERE)
 [![mailid badge](https://img.shields.io/badge/Muh_Roshan-30302f?style=for-the-badge&logo=gmail)](mailto:muhammedroshanps@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Muh-Roshan&label=Profile%20Views&color=blue&style=flat-square" alt="Roshan-Here" /> </p>
@@ -16,13 +16,13 @@ Country = "🇮🇳 Ask"
 Free Repo = "(https://github.com/wonkru-bot)"
 ```
 
-## Its About me Bruh🏅
+## Its About me 🏅
 <img align="right" alt="cmulay | Read Book" src="https://github.com/Roshan-Here/Roshan-Here/blob/main/👨‍💻/multi.gif" width="300" height="300" />
 
 - 🔭 I’m currently studying.
 - 👬 I’m looking to collaborate on Project.
 - 💬 Ask me about anything, always ready to help.
-- 📫 Find me on Telegram - [Muhammed Roshan](https://t.me/WONKRU_HERE).
+- 📫 Find me on Telegram - [Muhammed Roshan](https://t.me/Xequist).
 - ⚡ Fact: I always try to learn from Scratch
 
 
@@ -53,9 +53,6 @@ Follow Me On:
 <p align="left">
 <a href="https://github.com/Roshan-Here"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?style=for-the-badge&logo=github"></a>
 </p>
-<p align="left">
-<a href="https://instagram.com/albert_3instein"><img src="https://img.shields.io/badge/Instagram-albert_3ienstein-magenta?style=for-the-badge&logo=instagram"></a>
-</p>
 
 </details>
 
@@ -67,7 +64,6 @@ Follow Me On:
 [<img align="left" alt="Linux" width="26px" src="https://www.freepnglogos.com/uploads/linux-png/difference-between-linux-and-window-operating-system-3.png" />](https://www.linux.org/)
 [<img align="left" alt="Ubuntu" width="26px" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" />](https://www.ubuntu.com)
 [<img align="left" alt="Heroku" width="26px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png" />](https://heroku.com/)
-
 <br />
 <br />
 

@@ -29,40 +29,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-<details>  
-<summary>📈 Click to Expand</summary>  
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Roshan-Here&show_icons=true&count_private=true&theme=radical" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan-Here&layout=compact&theme=radical" />
-    </td>
-  </tr>
-</table>
-
-</details>  
-
----
-
-## 🏆 GitHub Trophies  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Roshan-Here&theme=onedark)](https://github.com/Roshan-Here)  
-
----
-
-### Contribution Graph:
-
-<p align="center">
-  <a href="https://github.com/Roshan-here">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roshan-here#version3"/>
-  </a>
-</p>
-<a href="https://github.com/Roshan-here"><img alt="Roshan's Activity Graph" src="https://ghactivity.mrayush.me/graph?username=Roshan-here&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-
 
 ## 🌍 Connect with Me  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Roshan-Here)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-roshan-ps/)  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x)](https://x.com/roshan_mown)

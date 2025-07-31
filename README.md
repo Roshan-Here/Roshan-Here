@@ -22,7 +22,7 @@
 ---
 
 ## 👨‍💻 About Me  
-- 🔭 Currently building **[GlobalProfile](https://globalprofile.vercel.app)** – an AI-powered resume & portfolio builder.
+- 🔭 Currently building **[EnteProfile](https://enteprofile.com)** – an AI-powered resume & portfolio builder.
 - 🚀 Passionate about **Full Stack Development & Open Source**.  
 - 👬 Open to collaborations on exciting projects.  
 - 📫 **Let's connect!** → [Linkedin](https://www.linkedin.com/in/muhammed-roshan-ps/) 
